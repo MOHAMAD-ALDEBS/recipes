@@ -1,0 +1,13 @@
+div {
+  color: rgb(23, 156, 90);
+}
+
+
+.alert-text {
+  color: red;
+}
+
+#title {
+    color: yellow;
+    background-color: red;
+}
